@@ -39,6 +39,6 @@ Install required dependencies:
 To use this code you need to download data and specify paths on it:
 
 - Kaggle input data: https://www.kaggle.com/c/siim-covid19-detection/data
-- Resized input images: https://drive.google.com/drive/u/1/folders/1F0oSOKRN5WP-0QMhAvSj4ij7c0kfF8DA
+- Resized input images: https://drive.google.com/drive/folders/1F0oSOKRN5WP-0QMhAvSj4ij7c0kfF8DA?usp=sharing
 - Public Kernel with trained weights: https://www.kaggle.com/greylord1996/effnetb4-effnetv2-retinanet-nmw
 

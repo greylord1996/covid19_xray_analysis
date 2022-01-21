@@ -9,22 +9,22 @@ Note for Windows users: You should start a command line with administrator's pri
 
 First of all, clone the repository:
 
-    git clone https://github.com/greylord1996/kaggle_hubmap_kidney_segmentation.git
-    cd kaggle_hubmap_kidney_segmentation/
+    git clone https://github.com/greylord1996/covid19_xray_analysis.git
+    cd covid19_xray_analysis/
 
 Create a new virtual environment:
 
     # on Linux:
-    python -m venv hubmapenv
+    python -m venv covenv
     # on Windows:
-    python -m venv hubmapenv
+    python -m venv covenv
 
 Activate the environment:
 
     # on Linux:
-    source hubmapenv/bin/activate
+    source covenv/bin/activate
     # on Windows:
-    call hubmapenv\Scripts\activate.bat
+    call covenv\Scripts\activate.bat
 
 Install required dependencies:
 
